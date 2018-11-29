@@ -1,4 +1,4 @@
-# ethave installing 
+# EThave installing 
 
 Linux 
 
